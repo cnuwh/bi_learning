@@ -1,0 +1,8 @@
+# folders
+kkb/03/demo/
+env/
+.vscode/
+
+# files
+*.csv
+*.ttf
