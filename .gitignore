@@ -11,6 +11,9 @@ kkb/07/action/__pycache__/
 kkb/08/SupplyChain/
 kkb/08/code/
 kkb/08/9b24bd665855079e51f3dd386d8c705.png
+intelligent_logistics_system/ch03/1.ipynb
+intelligent_logistics_system/ch03/2.ipynb
+intelligent_logistics_system/ch03/3.ipynb
 env/
 .vscode/
 
@@ -21,6 +24,7 @@ env/
 *.pptx
 *.zip
 *.xls
+*.jpg
 问卷星二维码海报.png
 test.py
 requirements.txt
