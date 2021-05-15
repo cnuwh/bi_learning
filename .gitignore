@@ -25,6 +25,7 @@ env/
 *.zip
 *.xls
 *.jpg
+*.bak.ipynb
 问卷星二维码海报.png
 test.py
 requirements.txt
